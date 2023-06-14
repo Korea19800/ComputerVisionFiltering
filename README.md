@@ -21,3 +21,5 @@ should exit.
 
 
  The program can then exit
+
+So bascially the program is filtering pgm file
